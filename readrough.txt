@@ -1,0 +1,9 @@
+start ganache
+take private key from ganache and paste in metmask
+add etwork to metamask
+take rpc url from ganache and add to metamask and add chain id as 1337
+open cmd enter truffle build/truffle compile
+then enter truffle deploy
+if deployed successfully
+open react app
+and type npm start
